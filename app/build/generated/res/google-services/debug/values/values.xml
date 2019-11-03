@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">324955341715-7mtb4h8212bmbr1crjom0j9setdqpbr3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://imyourlegs-29d38.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">324955341715</string>
+    <string name="google_api_key" translatable="false">AIzaSyCN5v2A8Bt2UtTP6iOW09KkmmT4A-Zkh8M</string>
+    <string name="google_app_id" translatable="false">1:324955341715:android:c9d9e07897882aa4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCN5v2A8Bt2UtTP6iOW09KkmmT4A-Zkh8M</string>
+    <string name="google_storage_bucket" translatable="false">imyourlegs-29d38.appspot.com</string>
+    <string name="project_id" translatable="false">imyourlegs-29d38</string>
+</resources>
